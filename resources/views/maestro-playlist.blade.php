@@ -67,9 +67,8 @@ document.addEventListener('DOMContentLoaded', function() {
     // 'filename' -> nom du fichier dans public/musique/
     // 'cover' -> nom du fichier image dans public/images/pochette/
     const playlist = [
-        { title: 'Lona Alex Catherine', artist: 'Lona', year: '2000', filename: 'lona-alex-catherine.mp3', cover: 'lona-alex-catherine.jpg' },
+        { title: 'Lona', artist: 'Alex Catherine', year: '2000', filename: 'lona-alex-catherine.mp3', cover: 'lona-alex-catherine.jpg' },
         { title: 'Bel Kreati', artist: 'Kassav', year: '1995', filename: 'kassav-bel-kreati.mp3', cover: 'kassav-bel-kreati.jpg' },
-        { title: 'Zouk la sé sèl médikaman nou ni', artist: 'Kassav\'', year: '1984', filename: 'kassav-zouk-la-se-sel.mp3', cover: 'kassav-zouk-la-se-sel.jpg' },
         { title: 'Mabouya', artist: 'Tabou Combo', year: '1978', filename: 'tabou-combo-mabouya.mp3', cover: 'tabou-combo-mabouya.jpg' },
         { title: 'Redemption Song', artist: 'Bob Marley', year: '1980', filename: 'bob-marley-redemption-song.mp3', cover: 'bob-marley-redemption-song.jpg' },
         { title: 'La Vida Es Un Carnaval', artist: 'Celia Cruz', year: '1998', filename: 'celia-cruz-vida-es-un-carnaval.mp3', cover: 'celia-cruz-vida-es-un-carnaval.jpg' },
