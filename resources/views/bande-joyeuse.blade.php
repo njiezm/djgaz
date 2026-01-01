@@ -14,21 +14,21 @@
                     <ul class="list-unstyled mt-4 d-flex gap-4">
                         <li><i data-lucide="music" class="text-gold me-2"></i> Spectacles Live</li>
                         <li><i data-lucide="users" class="text-gold me-2"></i> Esprit de Groupe</li>
-                        <li><i data-lucide="star" class="text-gold me-2"></i> Scènes Nationales</li>
+                        <li><i data-lucide="star" class="text-gold me-2"></i>Soirée de folie</li>
                     </ul>
                 </div>
             </div>
         </div>
         <div class="row mt-5">
+            <div class="col-md-4 mb-4"><img src="{{ asset('images/bande-j-2.jpg') }}" class="img-fluid border border-secondary grayscale" alt="Bande 1"></div>
+            <div class="col-md-4 mb-4"><img src="{{ asset('images/gaztop.jpg') }}" class="img-fluid border border-secondary grayscale" alt="Bande 2"></div>
+            <div class="col-md-4 mb-4"><img src="{{ asset('images/amistop.jpg') }}" class="img-fluid border border-secondary grayscale" alt="Bande 3"></div>
+            <div class="col-md-4 mb-4"><img src="{{ asset('images/bande-j-1.jpg') }}" class="img-fluid border border-secondary grayscale" alt="Bande 1"></div>
+            <div class="col-md-4 mb-4"><img src="{{ asset('images/train.jpg') }}" class="img-fluid border border-secondary grayscale" alt="Bande 2"></div>
+            <!--div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 3"></!--div>
             <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1429962714451-bb934ecbb4ec?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 1"></div>
             <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 2"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 3"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1429962714451-bb934ecbb4ec?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 1"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 2"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 3"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1429962714451-bb934ecbb4ec?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 1"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 2"></div>
-            <div class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 3"></div>
+            <div-- class="col-md-4 mb-4"><img src="https://images.unsplash.com/photo-1493225255756-d9584f8606e9?auto=format&fit=crop&q=80&w=400" class="img-fluid border border-secondary grayscale" alt="Bande 3"></div-->
             
         </div>
         

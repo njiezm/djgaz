@@ -69,6 +69,7 @@
             display: flex;
             align-items: center;
             background: linear-gradient(to right, #080808 50%, transparent), url('https://images.unsplash.com/photo-1516280440614-37939bbacd81?auto=format&fit=crop&q=80&w=1920');
+           /*background: linear-gradient(to right, #080808 50%, transparent), url('images/hero-dj.jpg');*/
             background-size: cover;
             background-position: center;
         }
@@ -179,6 +180,12 @@
             padding: 60px;
             border: 1px solid var(--gold);
         }
+
+        .player-cover {
+    width: 300px;
+    height: 300px;
+    object-fit: cover; /* Assure que l'image couvre l'espace sans être déformée */
+}
     </style>
 </head>
 <body>

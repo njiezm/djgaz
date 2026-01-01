@@ -26,7 +26,7 @@
                 </div>
             </div>
         </div>
-        <img src="https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?auto=format&fit=crop&q=80&w=1200" class="img-fluid mt-5 grayscale opacity-50" style="height:200px; width:100%; object-fit:cover;" alt="Soundwave">
+        <img src="{{ asset('images/gaztop.jpg') }}" class="img-fluid mt-5 grayscale opacity-50" style="height:200px; width:100%; object-fit:cover;" alt="Soundwave">
     </div>
 </section>
 @endsection
