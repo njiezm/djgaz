@@ -40,6 +40,10 @@
                         <option value="Zouk" {{ old('category') == 'Zouk' ? 'selected' : '' }}>Zouk</option>
                         <option value="Compas" {{ old('category') == 'Compas' ? 'selected' : '' }}>Compas</option>
                         <option value="Salsa" {{ old('category') == 'Salsa' ? 'selected' : '' }}>Salsa</option>
+                        <option value="Merengue" {{ old('category') == 'Merengue' ? 'selected' : '' }}>Merengue</option>
+                        <option value="Mazouka" {{ old('category') == 'Mazouka' ? 'selected' : '' }}>Mazouka</option>
+                        <option value="Bouyon" {{ old('category') == 'Bouyon' ? 'selected' : '' }}>Bouyon</option>
+                        <option value="Kizomba" {{ old('category') == 'Kizomba' ? 'selected' : '' }}>Kizomba</option>
                         <option value="Clubbing" {{ old('category') == 'Clubbing' ? 'selected' : '' }}>Clubbing</option>
                         <option value="Various" {{ old('category') == 'Various' ? 'selected' : '' }}>Various</option>
                         <option value="Hip-Hop" {{ old('category') == 'Hip-Hop' ? 'selected' : '' }}>Hip-Hop</option>
