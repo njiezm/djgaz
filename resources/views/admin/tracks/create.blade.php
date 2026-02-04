@@ -42,6 +42,12 @@
                         <option value="Salsa" {{ old('category') == 'Salsa' ? 'selected' : '' }}>Salsa</option>
                         <option value="Clubbing" {{ old('category') == 'Clubbing' ? 'selected' : '' }}>Clubbing</option>
                         <option value="Various" {{ old('category') == 'Various' ? 'selected' : '' }}>Various</option>
+                        <option value="Hip-Hop" {{ old('category') == 'Hip-Hop' ? 'selected' : '' }}>Hip-Hop</option>
+                        <option value="R&B" {{ old('category') == 'R&B' ? 'selected' : '' }}>R&B</option>
+                        <option value="Soka" {{ old('category') == 'Soka' ? 'selected' : '' }}>Soka</option>
+                        <option value="Dancehall" {{ old('category') == 'Dancehall' ? 'selected' : '' }}>Dancehall</option>
+                        <option value="Reggae" {{ old('category') == 'Reggae' ? 'selected' : '' }}>Reggae</option>
+                        <option value="Other" {{ old('category') == 'Other' ? 'selected' : '' }}>Other</option>
                     </select>
                     @error('category')
                         <div class="invalid-feedback">{{ $message }}</div>

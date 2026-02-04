@@ -221,7 +221,7 @@
         <div class="container text-center">
             <h2 class="text-gold">DJ GAZ</h2>
             <p class="serif opacity-50">L'héritage d'un homme, le son d'une île.</p>
-            <p class="small text-white-50 mt-4">&copy; 2024 - Hommage Familial | Fait avec amour en Martinique</p>
+            <p class="small text-white-50 mt-4">&copy; 2026 - Hommage Familial | Fait avec amour en Martinique</p>
         </div>
     </footer>
 
